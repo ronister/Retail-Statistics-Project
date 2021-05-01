@@ -1,0 +1,1000 @@
+2020-10-10	20:55	San Jose	Men's Clothing	214.05	Amex
+2020-05-05	07:11	Fort Worth	Women's Clothing	153.57	Visa
+2001-07-11	10:41	San Diego	Music	66.08	Cash
+2008-07-14	17:12	Pittsburgh	Pet Supplies	493.51	Discover
+2018-06-04	05:33	Omaha	Children's Clothing	235.63	MasterCard
+2012-06-14	12:10	Stockton	Men's Clothing	247.18	MasterCard
+2017-09-23	20:55	Austin	Cameras	379.6	Visa
+2012-11-17	02:43	New York	Consumer Electronics	296.8	Cash
+2003-02-21	00:40	Corpus Christi	Toys	25.38	Discover
+2009-08-22	03:10	Fort Worth	Toys	213.88	Visa
+2004-10-21	05:03	Las Vegas	Video Games	53.26	Visa
+2012-05-24	05:18	Newark	Video Games	39.75	Cash
+2004-03-13	05:29	Austin	Cameras	469.63	MasterCard
+2015-05-03	08:33	Greensboro	DVDs	290.82	MasterCard
+2013-07-26	23:06	San Francisco	Music	260.65	Discover
+2018-10-23	18:39	Lincoln	Garden	136.9	Visa
+2000-07-10	02:34	Buffalo	Women's Clothing	483.82	Visa
+2016-08-11	16:14	San Jose	Women's Clothing	215.82	Cash
+2002-05-21	00:13	Boston	Cameras	418.94	Amex
+2005-01-10	14:56	Houston	Baby	309.16	Visa
+2020-07-04	15:16	Las Vegas	Books	93.39	Visa
+2009-07-24	07:09	Virginia Beach	Children's Clothing	376.11	Amex
+2015-02-07	10:43	Riverside	Consumer Electronics	252.88	Cash
+2002-02-22	19:04	Tulsa	Baby	205.06	Visa
+2003-07-20	04:12	Reno	Crafts	88.25	Visa
+2017-12-18	07:32	Chicago	Books	31.08	Cash
+2009-10-23	23:31	Fort Wayne	Men's Clothing	370.55	Amex
+2009-05-06	12:33	San Bernardino	Consumer Electronics	170.2	Cash
+2013-10-15	02:57	Madison	Men's Clothing	16.78	Visa
+2016-07-04	15:07	Austin	Sporting Goods	327.75	Discover
+2004-01-16	17:02	Portland	CDs	108.69	Amex
+2000-01-26	20:42	Riverside	Sporting Goods	15.41	Discover
+2004-03-05	22:54	Reno	Toys	80.46	Visa
+2008-08-19	01:21	Anchorage	Music	298.86	MasterCard
+2004-12-15	05:08	Pittsburgh	Sporting Goods	475.26	Amex
+2020-09-19	22:50	Spokane	Garden	3.85	Amex
+2007-02-28	12:57	Spokane	Computers	287.65	MasterCard
+2002-09-02	02:05	Fresno	CDs	466.64	MasterCard
+2008-06-15	06:36	Omaha	Baby	255.68	MasterCard
+2016-01-23	01:07	Anchorage	DVDs	6.38	Amex
+2019-05-10	17:17	Aurora	Consumer Electronics	117.81	MasterCard
+2003-05-20	08:28	Philadelphia	DVDs	351.31	Cash
+2008-07-01	23:06	Fremont	Baby	222.61	Cash
+2012-06-26	07:36	Anchorage	Crafts	22.36	Amex
+2018-11-02	01:26	Norfolk	Women's Clothing	189.01	Amex
+2014-09-19	16:34	Chandler	Books	414.08	Cash
+2009-12-03	10:22	Minneapolis	Computers	182.05	Visa
+2010-12-22	16:13	Honolulu	Cameras	345.18	Discover
+2000-02-01	12:00	Indianapolis	Books	135.96	Discover
+2000-04-22	04:34	Chandler	Books	344.09	Discover
+2010-12-28	11:04	Saint Paul	Crafts	33.13	Amex
+2006-05-17	17:27	New York	Garden	18.27	Discover
+2001-07-24	18:42	Greensboro	Computers	140.94	Discover
+2017-07-22	01:52	Spokane	Toys	157.48	MasterCard
+2015-09-14	02:40	Boise	Video Games	350.55	Discover
+2018-11-13	00:59	Fresno	Crafts	196.83	Visa
+2015-05-04	19:02	Durham	Toys	425.79	Visa
+2008-06-16	16:23	Riverside	CDs	472.71	Cash
+2008-01-17	14:41	Lexington	Women's Clothing	359.29	Visa
+2014-11-08	23:49	Durham	Health and Beauty	131.97	Visa
+2006-02-12	17:48	Garland	Garden	134.33	Discover
+2008-11-05	03:38	Kansas City	Garden	302.69	MasterCard
+2008-08-06	19:54	Atlanta	Toys	254.62	Discover
+2006-07-04	11:00	Boise	Baby	130.54	Discover
+2013-08-19	00:36	New York	Consumer Electronics	153.84	Amex
+2005-01-23	19:56	Riverside	Toys	2.0	Cash
+2009-05-26	22:44	San Bernardino	Women's Clothing	100.38	Discover
+2014-09-02	08:24	Wichita	Men's Clothing	460.38	MasterCard
+2013-04-09	12:48	Santa Ana	Video Games	107.94	Visa
+2011-07-01	09:48	New Orleans	Books	157.08	Discover
+2008-04-10	18:29	Fremont	Men's Clothing	243.05	Discover
+2020-02-18	00:51	Pittsburgh	Music	46.99	Discover
+2012-02-16	09:24	Memphis	Toys	9.47	MasterCard
+2009-02-05	19:13	Chicago	Garden	16.15	Visa
+2010-06-03	04:01	Virginia Beach	Cameras	271.56	Discover
+2016-06-19	02:58	Omaha	Children's Clothing	387.75	Visa
+2019-02-03	18:26	Tucson	Health and Beauty	367.76	Visa
+2012-04-01	15:32	Nashville	Men's Clothing	297.43	Amex
+2017-03-02	16:04	Washington	Books	392.81	Discover
+2004-11-12	03:23	Greensboro	Garden	11.96	MasterCard
+2000-11-01	23:20	Tulsa	Crafts	20.07	Discover
+2012-03-09	04:45	Cincinnati	DVDs	299.55	Visa
+2004-08-05	13:49	Charlotte	DVDs	440.11	Visa
+2002-01-09	12:14	Austin	Crafts	127.8	Discover
+2017-08-14	03:39	Anchorage	DVDs	390.2	Visa
+2006-02-06	09:00	Albuquerque	Pet Supplies	440.7	Cash
+2014-11-23	15:41	Santa Ana	Video Games	294.98	Cash
+2020-08-08	15:50	Milwaukee	Men's Clothing	418.91	Discover
+2002-05-26	04:40	Jacksonville	Computers	359.65	MasterCard
+2010-05-11	10:58	Phoenix	Sporting Goods	371.21	Visa
+2013-04-09	10:14	Anchorage	Health and Beauty	368.42	MasterCard
+2012-11-25	13:52	Norfolk	Consumer Electronics	480.24	Cash
+2014-07-04	20:30	San Antonio	CDs	125.35	Amex
+2002-04-28	04:54	New Orleans	DVDs	242.31	Discover
+2006-12-26	17:30	Riverside	Computers	278.61	Discover
+2002-03-24	18:51	St. Petersburg	CDs	152.9	Discover
+2017-10-14	01:16	Lubbock	Sporting Goods	452.07	Visa
+2010-07-17	04:56	Toledo	Baby	59.08	Cash
+2013-01-16	20:47	Oakland	Garden	155.33	Visa
+2007-09-21	11:19	Philadelphia	Pet Supplies	332.48	Amex
+2002-10-16	08:29	Scottsdale	Children's Clothing	419.06	Discover
+2004-06-24	04:21	Chandler	Women's Clothing	423.12	Cash
+2017-10-22	17:21	San Diego	Consumer Electronics	25.74	MasterCard
+2008-11-02	02:24	Anaheim	Baby	66.07	Visa
+2013-11-10	22:12	Lincoln	Books	482.94	Discover
+2020-09-25	23:32	Jersey City	Music	11.29	Cash
+2017-02-12	22:55	Santa Ana	Crafts	215.22	Discover
+2016-11-27	05:23	Philadelphia	Women's Clothing	482.97	MasterCard
+2000-02-15	10:55	Minneapolis	Books	322.37	Cash
+2003-01-23	15:25	El Paso	Sporting Goods	103.01	Visa
+2010-08-14	08:48	Boston	Video Games	366.56	Cash
+2004-12-16	14:02	Washington	Toys	257.67	MasterCard
+2018-10-18	12:44	Austin	Health and Beauty	483.1	Visa
+2007-07-12	21:37	Tampa	Crafts	437.19	Discover
+2013-03-10	02:49	Boston	Children's Clothing	31.79	Amex
+2009-09-26	12:14	Cleveland	Men's Clothing	427.43	Amex
+2006-03-11	07:17	Arlington	Video Games	400.08	MasterCard
+2016-04-03	02:36	Fresno	Crafts	461.48	Cash
+2020-03-22	06:23	Kansas City	Books	133.57	Cash
+2004-04-01	21:33	Phoenix	Crafts	489.8	Visa
+2016-06-17	02:15	Riverside	Pet Supplies	84.4	Cash
+2005-10-22	08:16	Columbus	Health and Beauty	392.5	Visa
+2010-11-18	20:06	Cincinnati	Books	23.83	Amex
+2013-11-05	17:08	Houston	Music	461.11	Discover
+2014-10-04	18:34	Kansas City	Women's Clothing	293.16	Cash
+2019-04-03	00:57	Fort Worth	Crafts	360.34	Visa
+2012-07-20	03:49	Raleigh	Men's Clothing	314.1	MasterCard
+2014-07-05	06:50	Lubbock	Garden	366.13	Discover
+2006-07-24	15:42	Seattle	Men's Clothing	481.32	Discover
+2002-08-15	00:04	Greensboro	Cameras	306.01	Visa
+2012-09-23	20:18	Detroit	Crafts	134.89	Amex
+2019-03-08	02:09	Rochester	Video Games	75.73	Visa
+2008-02-08	04:17	Jersey City	Toys	339.77	Amex
+2014-03-08	02:20	Omaha	Health and Beauty	333.15	MasterCard
+2008-08-28	01:47	Jacksonville	Consumer Electronics	345.1	Amex
+2019-10-01	14:34	Nashville	CDs	467.62	Amex
+2019-06-19	14:36	Omaha	DVDs	164.38	Cash
+2018-08-06	03:13	Dallas	Books	273.49	Amex
+2018-11-21	17:52	Long Beach	CDs	98.23	Amex
+2009-09-03	21:47	Scottsdale	Music	461.2	Amex
+2016-09-10	09:47	Lexington	Consumer Electronics	446.19	Discover
+2016-09-22	15:39	Honolulu	Children's Clothing	39.82	Discover
+2019-03-19	19:34	Pittsburgh	DVDs	255.59	Visa
+2017-09-13	13:47	Memphis	Health and Beauty	47.38	Amex
+2020-02-19	20:12	Memphis	Video Games	58.66	Visa
+2017-03-04	13:00	Kansas City	Music	364.24	Amex
+2013-01-19	14:16	Lexington	Baby	274.99	Discover
+2011-08-27	12:52	Toledo	Baby	350.97	MasterCard
+2000-07-16	14:43	Jersey City	Children's Clothing	114.9	Visa
+2003-11-11	15:48	Denver	Women's Clothing	173.72	Visa
+2014-04-10	00:09	Houston	Music	331.68	MasterCard
+2017-09-08	09:27	Mesa	Children's Clothing	314.05	MasterCard
+2005-08-20	01:47	Madison	Computers	160.9	Visa
+2015-10-01	15:11	Santa Ana	Pet Supplies	304.16	Amex
+2002-02-26	01:17	Gilbert	Toys	74.71	Visa
+2020-01-23	03:52	Jacksonville	Men's Clothing	203.43	Visa
+2005-11-02	03:40	Gilbert	CDs	299.3	Discover
+2009-04-21	20:22	Seattle	CDs	453.07	Amex
+2006-12-22	18:49	Reno	Computers	62.14	Visa
+2017-10-14	00:49	Saint Paul	Pet Supplies	138.93	Visa
+2010-09-14	08:39	Bakersfield	Children's Clothing	217.79	Discover
+2017-09-10	10:14	Chesapeake	Health and Beauty	343.04	Amex
+2006-11-01	05:16	Glendale	Books	220.63	MasterCard
+2012-01-20	20:53	Durham	Computers	422.56	MasterCard
+2007-07-20	14:12	New Orleans	Pet Supplies	382.41	Cash
+2009-09-10	12:25	Honolulu	Garden	332.58	Cash
+2009-02-27	05:24	Chandler	Books	467.48	MasterCard
+2020-11-22	05:25	Boston	Video Games	208.69	MasterCard
+2018-01-25	12:05	Baltimore	Crafts	7.98	Discover
+2010-06-26	13:11	Denver	Consumer Electronics	239.49	Discover
+2010-10-20	21:41	Lubbock	DVDs	390.35	MasterCard
+2011-04-15	14:21	San Diego	Children's Clothing	357.1	Cash
+2018-09-12	01:56	North Las Vegas	Toys	409.26	Cash
+2013-07-28	04:56	Lincoln	Children's Clothing	92.93	MasterCard
+2013-04-21	17:45	Miami	Children's Clothing	191.28	MasterCard
+2002-07-17	19:07	Phoenix	Music	94.3	Visa
+2003-11-28	23:28	Miami	Crafts	140.47	Amex
+2005-12-27	14:01	Irvine	Computers	208.16	MasterCard
+2006-05-24	17:55	Madison	Crafts	337.8	Visa
+2006-05-06	17:30	Los Angeles	Toys	37.77	Visa
+2017-01-01	03:07	Fresno	Sporting Goods	60.92	Visa
+2016-03-16	16:09	Tulsa	Women's Clothing	206.82	Discover
+2020-10-13	02:48	Jacksonville	Video Games	422.0	Amex
+2019-11-03	20:00	Albuquerque	Pet Supplies	484.24	Discover
+2015-03-15	01:34	Memphis	Toys	449.7	Amex
+2004-04-10	20:27	Chicago	Sporting Goods	98.92	MasterCard
+2014-01-09	18:58	New Orleans	Men's Clothing	336.28	Visa
+2017-10-20	02:01	Anaheim	Sporting Goods	48.34	MasterCard
+2008-03-08	09:27	Orlando	Baby	160.07	Cash
+2019-06-09	17:03	Oakland	Women's Clothing	346.66	Visa
+2008-12-13	04:43	Fort Worth	Cameras	400.35	Visa
+2007-01-16	23:19	Winston–Salem	Toys	361.66	Visa
+2013-07-27	05:21	Boston	Toys	88.56	Discover
+2009-12-18	13:36	St. Petersburg	Crafts	34.54	Discover
+2000-12-23	05:15	Toledo	Video Games	195.18	Discover
+2003-12-26	10:53	Lubbock	Women's Clothing	308.53	Cash
+2006-05-14	02:06	Albuquerque	Crafts	149.94	Cash
+2020-12-02	19:06	Mesa	Garden	70.75	MasterCard
+2000-02-18	05:21	Omaha	Consumer Electronics	435.3	Visa
+2006-12-07	05:50	Chesapeake	Garden	333.31	MasterCard
+2005-05-24	01:22	Louisville	Sporting Goods	111.32	Discover
+2008-06-02	04:16	San Francisco	CDs	442.79	Cash
+2011-03-11	00:33	Jersey City	Garden	329.03	MasterCard
+2019-10-03	16:27	Irving	Books	163.57	Cash
+2017-08-16	09:10	Lexington	CDs	4.4	Visa
+2016-01-17	01:43	Cleveland	Health and Beauty	105.56	Amex
+2003-02-06	12:40	Hialeah	Women's Clothing	176.98	Visa
+2000-03-16	00:18	Dallas	Pet Supplies	481.52	Cash
+2020-10-28	04:41	Toledo	CDs	495.81	Cash
+2008-10-16	02:15	San Jose	Toys	337.71	Cash
+2015-04-21	05:32	Milwaukee	Sporting Goods	487.86	Visa
+2005-04-21	09:39	Kansas City	Pet Supplies	129.79	MasterCard
+2016-07-08	18:42	New York	Baby	326.88	Discover
+2020-10-16	18:18	Las Vegas	CDs	152.94	Visa
+2018-02-05	12:43	Spokane	Crafts	230.81	Visa
+2014-09-22	08:50	Raleigh	Crafts	443.46	MasterCard
+2012-06-23	02:17	Houston	Children's Clothing	183.38	Discover
+2006-11-12	02:18	Winston–Salem	Music	411.46	Cash
+2000-06-14	02:12	Tucson	Children's Clothing	247.4	Amex
+2005-08-27	08:09	Baltimore	DVDs	269.7	Visa
+2005-11-20	03:16	Lubbock	Women's Clothing	102.79	Discover
+2018-06-09	18:03	Plano	Men's Clothing	181.96	MasterCard
+2005-04-25	22:59	Norfolk	Books	274.88	MasterCard
+2017-02-04	19:56	Charlotte	Health and Beauty	318.25	Amex
+2020-08-23	15:48	New York	Women's Clothing	257.19	Amex
+2020-12-23	10:34	Reno	DVDs	49.61	MasterCard
+2003-12-12	00:29	Tampa	Music	286.88	Amex
+2018-08-18	12:40	Boston	Men's Clothing	282.6	Visa
+2017-12-07	17:55	Philadelphia	Baby	259.14	Visa
+2018-11-26	06:19	Lincoln	Women's Clothing	235.9	Cash
+2001-01-24	07:16	Jacksonville	Pet Supplies	325.19	Cash
+2013-07-13	22:32	San Francisco	Books	411.08	MasterCard
+2015-10-08	01:01	Toledo	Music	173.44	Discover
+2015-02-21	02:09	Corpus Christi	Health and Beauty	293.04	Cash
+2011-07-10	04:15	Honolulu	Pet Supplies	255.96	Cash
+2018-01-06	19:37	Lubbock	Garden	496.04	MasterCard
+2001-06-27	20:43	Scottsdale	Consumer Electronics	423.52	MasterCard
+2004-03-19	10:27	Louisville	CDs	255.28	Cash
+2003-08-20	19:24	Durham	Crafts	296.45	Amex
+2006-03-19	11:01	Lexington	DVDs	87.86	Visa
+2011-06-12	23:14	Minneapolis	Computers	106.08	Visa
+2017-04-13	19:08	El Paso	Pet Supplies	26.72	MasterCard
+2004-06-11	19:22	Long Beach	Pet Supplies	42.48	Discover
+2014-11-26	17:22	Charlotte	CDs	137.64	Visa
+2007-01-07	05:18	Winston–Salem	DVDs	102.39	Cash
+2012-12-05	15:20	Anaheim	Garden	447.8	Discover
+2009-02-02	12:30	Oakland	DVDs	160.96	MasterCard
+2013-09-07	17:55	Dallas	Computers	57.3	Amex
+2009-10-22	06:16	Santa Ana	Men's Clothing	428.78	Discover
+2011-02-21	21:04	Memphis	Garden	157.59	Cash
+2009-11-23	14:57	Charlotte	Children's Clothing	408.1	Cash
+2019-07-19	10:23	Nashville	Pet Supplies	405.18	Cash
+2016-03-16	07:15	Oakland	Men's Clothing	347.48	Amex
+2014-09-24	19:23	Baltimore	Cameras	467.63	Amex
+2012-05-13	23:53	Columbus	Children's Clothing	142.24	MasterCard
+2002-10-06	20:16	St. Petersburg	Video Games	89.34	Visa
+2010-11-03	16:05	Seattle	Crafts	375.07	Discover
+2004-06-27	03:28	San Bernardino	Video Games	398.46	Amex
+2015-01-17	07:15	Wichita	Garden	296.63	MasterCard
+2005-08-13	04:41	Mesa	Video Games	27.56	Discover
+2014-07-06	03:40	Anaheim	CDs	341.43	Amex
+2003-12-14	11:55	Seattle	Crafts	162.97	Cash
+2017-09-09	16:31	Baltimore	Crafts	308.4	Visa
+2008-02-15	23:09	Washington	Books	64.95	Cash
+2018-04-25	02:11	Denver	Computers	189.88	Amex
+2000-07-24	07:25	Tulsa	CDs	336.92	Discover
+2014-08-15	13:34	San Antonio	Consumer Electronics	336.38	MasterCard
+2016-05-26	02:05	Oklahoma City	Music	162.52	Discover
+2017-02-18	10:24	Garland	Women's Clothing	0.71	MasterCard
+2005-03-05	15:33	Houston	DVDs	450.71	Discover
+2008-01-12	18:07	Seattle	DVDs	353.58	MasterCard
+2001-04-06	06:49	Rochester	Sporting Goods	363.83	Amex
+2020-04-21	01:20	Tampa	Video Games	33.89	MasterCard
+2004-06-24	23:28	Lexington	Cameras	150.73	Discover
+2003-05-03	12:46	Fremont	Pet Supplies	17.12	Cash
+2015-12-03	01:54	Arlington	Computers	25.46	Visa
+2000-08-23	05:34	Mesa	Toys	11.54	Cash
+2010-11-16	18:52	Anaheim	Sporting Goods	274.68	MasterCard
+2013-02-19	16:12	Irving	Children's Clothing	331.38	Discover
+2009-04-14	07:06	Baton Rouge	Computers	347.62	Amex
+2003-12-09	04:47	Bakersfield	Computers	368.94	Visa
+2004-12-20	02:56	Toledo	Men's Clothing	397.95	Discover
+2004-03-17	03:31	Chula Vista	Garden	11.25	MasterCard
+2009-01-19	12:09	North Las Vegas	DVDs	366.12	Visa
+2011-01-06	04:30	Mesa	Baby	270.85	MasterCard
+2010-10-02	17:00	Nashville	Books	178.48	Visa
+2009-03-09	09:05	Jersey City	Garden	46.07	Cash
+2019-12-07	05:13	Virginia Beach	Garden	208.7	Cash
+2011-05-09	01:23	Oklahoma City	Health and Beauty	495.4	Visa
+2008-07-18	02:46	Birmingham	Cameras	331.7	Visa
+2001-11-07	20:17	Atlanta	Women's Clothing	292.35	Visa
+2017-03-10	01:16	New York	Consumer Electronics	301.4	MasterCard
+2008-04-05	14:08	Glendale	Pet Supplies	199.67	Amex
+2007-11-19	01:23	Greensboro	Women's Clothing	11.22	Amex
+2014-04-01	13:29	Nashville	Crafts	48.45	Discover
+2012-01-02	17:07	Tampa	Music	237.29	MasterCard
+2014-04-10	13:47	Lubbock	Video Games	322.19	Visa
+2010-06-10	23:04	Rochester	Garden	297.72	Cash
+2005-03-07	05:34	San Diego	Baby	188.46	Visa
+2019-02-20	22:25	Nashville	Men's Clothing	457.96	Amex
+2014-02-02	13:20	Washington	Music	340.32	MasterCard
+2018-11-07	06:39	Baltimore	CDs	221.79	Amex
+2017-09-12	06:44	Riverside	Sporting Goods	187.28	MasterCard
+2009-06-10	22:25	Corpus Christi	Music	297.13	Amex
+2004-01-20	12:06	Irvine	DVDs	415.36	Amex
+2017-03-26	04:43	Baltimore	Crafts	191.65	Discover
+2010-10-14	12:55	El Paso	Health and Beauty	460.68	Cash
+2002-06-27	06:25	Corpus Christi	Video Games	485.96	Cash
+2014-02-06	15:48	Nashville	Cameras	59.72	Discover
+2010-12-06	11:17	Spokane	Cameras	343.49	Amex
+2015-03-12	01:31	Kansas City	Baby	39.26	Visa
+2018-05-12	08:24	Houston	DVDs	25.59	Cash
+2011-04-23	04:42	Long Beach	Pet Supplies	106.57	Discover
+2012-01-05	08:05	Birmingham	Men's Clothing	407.53	MasterCard
+2000-06-15	09:19	Cincinnati	Crafts	216.99	Visa
+2013-06-11	03:05	Portland	Garden	25.72	Visa
+2017-11-26	22:32	Greensboro	Consumer Electronics	438.7	Visa
+2001-05-20	18:30	St. Louis	Women's Clothing	298.76	Cash
+2000-08-23	09:03	Jersey City	Computers	169.4	MasterCard
+2000-06-04	14:55	Columbus	Garden	403.7	MasterCard
+2011-05-08	02:00	Honolulu	Music	164.92	Amex
+2010-02-21	07:33	North Las Vegas	Video Games	393.76	Amex
+2015-09-23	16:40	Scottsdale	Men's Clothing	30.36	Visa
+2012-06-17	09:20	Winston–Salem	Women's Clothing	380.75	Discover
+2002-02-06	00:11	San Bernardino	Sporting Goods	243.99	Discover
+2001-11-22	19:55	Albuquerque	Health and Beauty	192.48	Amex
+2006-02-25	20:11	Richmond	Women's Clothing	397.36	Discover
+2019-01-21	21:23	Anaheim	Music	456.53	Amex
+2012-01-06	16:10	Irving	Video Games	111.36	Discover
+2007-06-22	09:33	Columbus	Women's Clothing	197.37	Visa
+2006-03-13	09:01	Colorado Springs	Crafts	163.28	MasterCard
+2001-10-12	13:14	Indianapolis	Baby	142.02	Amex
+2013-09-12	14:27	Washington	Music	68.44	Cash
+2017-02-28	07:29	Bakersfield	Cameras	91.01	MasterCard
+2009-03-05	07:53	Albuquerque	Music	305.0	MasterCard
+2017-05-01	18:43	Houston	Computers	263.44	Cash
+2012-07-04	01:07	Durham	Cameras	13.49	Cash
+2012-05-05	14:04	Richmond	DVDs	203.84	MasterCard
+2014-08-16	23:21	Greensboro	Men's Clothing	7.06	Visa
+2013-05-18	10:03	Fremont	Women's Clothing	120.64	MasterCard
+2010-11-28	20:03	Greensboro	Garden	484.16	Discover
+2010-05-23	17:28	Boston	Books	477.91	Amex
+2016-10-25	09:35	San Antonio	Pet Supplies	260.12	Discover
+2013-09-02	21:39	Philadelphia	Health and Beauty	275.79	Discover
+2007-07-06	06:18	Chicago	Toys	465.46	Visa
+2001-04-23	10:03	Nashville	Cameras	452.04	Discover
+2003-05-21	03:48	Lubbock	Health and Beauty	220.18	MasterCard
+2013-06-13	19:54	Irving	Cameras	199.42	Visa
+2017-09-23	04:09	Chesapeake	Consumer Electronics	3.85	Amex
+2008-01-24	10:52	Scottsdale	Men's Clothing	492.96	Visa
+2010-05-27	04:23	Buffalo	Health and Beauty	344.08	Visa
+2003-10-27	01:56	Anaheim	Women's Clothing	21.53	MasterCard
+2006-07-04	05:56	Tulsa	Men's Clothing	127.16	Visa
+2018-12-04	03:29	Albuquerque	Cameras	326.11	Amex
+2000-04-12	10:16	Fort Wayne	Cameras	283.99	Amex
+2014-07-26	09:20	Lincoln	Women's Clothing	314.08	MasterCard
+2010-09-24	19:35	St. Petersburg	DVDs	183.24	Cash
+2016-01-11	16:52	Indianapolis	Women's Clothing	105.47	Amex
+2009-09-17	16:00	Louisville	Pet Supplies	317.72	MasterCard
+2007-10-04	15:04	Reno	Music	19.99	MasterCard
+2007-07-12	12:10	Anchorage	Consumer Electronics	118.46	Cash
+2014-02-28	13:44	Irvine	Books	105.3	Discover
+2004-03-22	11:27	Irving	CDs	87.49	Discover
+2020-10-05	15:29	Scottsdale	Children's Clothing	295.9	Cash
+2014-02-24	23:53	Irvine	Crafts	152.12	Amex
+2008-06-28	17:09	Plano	Toys	21.01	Discover
+2005-02-21	00:08	Spokane	Sporting Goods	335.68	Visa
+2011-02-24	04:42	Wichita	Women's Clothing	84.55	MasterCard
+2019-06-20	03:41	Chula Vista	Sporting Goods	389.23	Visa
+2008-06-02	22:15	Birmingham	Health and Beauty	368.69	Discover
+2006-11-07	05:19	Gilbert	Health and Beauty	465.6	Cash
+2003-03-17	12:12	Sacramento	Sporting Goods	141.59	Discover
+2017-10-07	03:02	Boston	CDs	360.81	Cash
+2016-04-12	16:54	Fresno	Health and Beauty	326.29	MasterCard
+2000-11-26	02:36	Kansas City	DVDs	41.77	MasterCard
+2000-09-23	07:38	Columbus	Baby	494.66	Discover
+2016-03-23	13:23	San Jose	Garden	192.82	Cash
+2017-03-18	01:23	Atlanta	Books	109.02	Cash
+2012-08-25	16:44	Stockton	Health and Beauty	310.11	MasterCard
+2019-08-25	04:43	Saint Paul	Garden	85.57	MasterCard
+2020-08-22	04:44	Laredo	Toys	303.26	Cash
+2018-10-13	22:51	Sacramento	Cameras	42.43	Cash
+2005-06-07	00:07	Austin	Video Games	112.66	Amex
+2006-07-08	17:44	Chesapeake	Crafts	371.14	Cash
+2015-01-25	20:28	Albuquerque	Computers	233.1	Cash
+2020-12-18	08:29	San Francisco	Consumer Electronics	154.01	MasterCard
+2020-07-17	16:18	Mesa	Baby	249.36	Amex
+2000-05-15	10:27	Henderson	Sporting Goods	124.52	Amex
+2003-08-18	02:53	Seattle	DVDs	52.72	MasterCard
+2013-09-18	02:45	New York	DVDs	117.98	Visa
+2018-06-07	20:50	New Orleans	Toys	32.96	Amex
+2013-02-16	03:18	Hialeah	Music	485.06	Discover
+2015-10-25	00:35	Cleveland	Sporting Goods	289.73	Amex
+2011-10-05	09:26	Baton Rouge	Music	322.0	Discover
+2000-10-02	01:34	Reno	Children's Clothing	165.85	Visa
+2019-06-20	10:17	Bakersfield	Consumer Electronics	498.93	Discover
+2004-10-01	17:15	Lubbock	Music	222.47	Amex
+2014-01-10	23:44	Arlington	CDs	166.33	Discover
+2019-03-10	09:10	Milwaukee	Baby	28.36	Discover
+2020-01-18	15:59	Indianapolis	Health and Beauty	1.29	Amex
+2002-10-12	19:19	Corpus Christi	Video Games	82.54	MasterCard
+2001-02-12	12:29	Omaha	Cameras	436.01	Discover
+2017-04-20	04:20	Los Angeles	Pet Supplies	389.7	Visa
+2011-01-17	14:13	Chesapeake	Video Games	349.23	Cash
+2019-11-04	16:46	Glendale	Sporting Goods	279.86	MasterCard
+2005-10-09	05:05	Richmond	Crafts	203.2	MasterCard
+2011-04-19	12:45	Cincinnati	Sporting Goods	90.8	Discover
+2000-01-15	18:19	Sacramento	Consumer Electronics	446.96	Discover
+2003-04-24	22:30	Mesa	Women's Clothing	284.34	Discover
+2007-06-01	09:05	San Jose	Cameras	95.81	Cash
+2006-08-12	13:21	San Jose	Pet Supplies	253.33	Discover
+2004-01-21	13:42	Fort Worth	Men's Clothing	358.08	MasterCard
+2002-10-11	17:19	Garland	Health and Beauty	82.08	MasterCard
+2007-01-17	05:35	Anaheim	Books	357.37	Discover
+2005-09-09	08:28	Birmingham	Women's Clothing	192.95	Cash
+2005-08-05	21:42	Albuquerque	Computers	290.43	MasterCard
+2013-04-22	04:30	Raleigh	Consumer Electronics	314.21	Discover
+2001-05-14	02:25	Miami	Men's Clothing	498.32	Amex
+2019-04-21	10:15	San Bernardino	Baby	145.21	Visa
+2014-07-04	03:02	Newark	Women's Clothing	243.21	Cash
+2001-08-11	02:35	Gilbert	Music	388.29	Discover
+2016-09-15	21:52	Richmond	Children's Clothing	131.91	Cash
+2004-07-19	06:06	Las Vegas	Garden	478.53	Cash
+2011-03-15	18:19	San Francisco	Women's Clothing	133.31	Cash
+2003-05-23	11:06	Portland	Consumer Electronics	95.0	MasterCard
+2019-05-05	06:04	San Francisco	Consumer Electronics	206.92	Amex
+2020-05-16	20:02	San Jose	Computers	160.6	Amex
+2001-01-03	17:08	Colorado Springs	Pet Supplies	76.61	Cash
+2019-04-21	11:06	Jersey City	Health and Beauty	481.23	Amex
+2016-03-13	03:06	Lincoln	Sporting Goods	437.51	Discover
+2014-05-04	13:58	Austin	Consumer Electronics	325.1	Discover
+2003-06-13	15:02	Norfolk	Cameras	305.99	Discover
+2013-05-22	03:39	Raleigh	Sporting Goods	488.65	Visa
+2015-02-26	22:13	Arlington	Garden	300.93	Amex
+2009-01-07	22:15	San Jose	Cameras	285.57	MasterCard
+2005-12-02	00:16	Indianapolis	Crafts	35.81	Visa
+2006-08-13	06:10	Honolulu	Computers	307.18	Visa
+2015-09-10	12:35	Anchorage	Sporting Goods	44.25	Discover
+2008-01-11	22:27	Stockton	Women's Clothing	465.15	Visa
+2012-03-16	03:32	Tampa	Pet Supplies	316.25	Cash
+2007-06-16	05:13	Baton Rouge	Computers	207.96	Amex
+2016-09-01	12:24	Minneapolis	Men's Clothing	486.46	MasterCard
+2014-10-21	05:29	Spokane	Books	295.4	Cash
+2005-04-26	23:18	Sacramento	Pet Supplies	218.58	Discover
+2008-07-28	15:57	Lincoln	Women's Clothing	406.49	Amex
+2010-04-13	17:57	Saint Paul	CDs	276.81	Visa
+2015-12-08	04:18	Toledo	Health and Beauty	71.75	Cash
+2017-06-12	19:23	Aurora	Crafts	368.16	MasterCard
+2000-10-17	12:37	Detroit	CDs	407.49	Discover
+2009-06-22	13:48	Minneapolis	Toys	49.94	Cash
+2004-08-20	01:36	Laredo	Video Games	323.35	Discover
+2006-01-23	15:50	Plano	Cameras	80.72	Visa
+2018-04-02	11:56	Baltimore	Sporting Goods	255.77	Discover
+2019-06-20	22:05	Mesa	Computers	62.13	MasterCard
+2001-08-01	12:05	Mesa	Garden	99.81	Cash
+2005-10-17	17:07	Fremont	Consumer Electronics	470.16	Visa
+2013-09-06	23:21	Irving	Sporting Goods	496.73	Amex
+2005-01-14	07:56	Buffalo	Cameras	292.38	Discover
+2000-01-15	21:51	Oklahoma City	Children's Clothing	166.08	MasterCard
+2016-12-05	00:02	Boise	Pet Supplies	199.71	Cash
+2003-08-03	16:49	Orlando	Toys	17.59	MasterCard
+2014-02-18	03:59	Newark	Pet Supplies	467.11	Visa
+2011-07-04	18:17	Hialeah	Consumer Electronics	395.99	Discover
+2003-10-21	19:50	Greensboro	Computers	261.16	Visa
+2018-02-15	14:42	Fort Worth	Computers	100.38	MasterCard
+2017-10-08	23:55	San Jose	CDs	250.46	Cash
+2016-12-02	13:33	Sacramento	Books	259.03	Visa
+2010-06-21	22:30	Aurora	Garden	256.25	Visa
+2020-03-13	12:07	Saint Paul	Crafts	342.35	Visa
+2012-01-15	00:44	Richmond	Pet Supplies	367.76	Discover
+2013-06-12	23:25	Glendale	Toys	81.91	Visa
+2001-03-06	13:55	Chula Vista	Sporting Goods	93.74	Amex
+2011-05-03	04:30	Los Angeles	DVDs	380.67	MasterCard
+2004-07-14	04:03	Richmond	Cameras	46.48	Amex
+2005-08-28	19:31	Pittsburgh	Baby	141.26	Cash
+2017-08-21	04:28	Wichita	Cameras	326.65	Cash
+2000-02-05	03:33	Toledo	Video Games	324.14	Discover
+2000-05-17	00:36	Tucson	DVDs	450.33	MasterCard
+2005-04-14	20:59	Portland	Sporting Goods	182.0	Visa
+2004-12-24	06:26	Dallas	Baby	434.94	Amex
+2007-07-28	00:00	Glendale	CDs	445.5	Discover
+2000-01-14	12:19	Austin	Cameras	113.26	MasterCard
+2020-04-21	01:39	Newark	Sporting Goods	371.88	Cash
+2001-08-27	20:41	Tucson	Men's Clothing	28.91	Discover
+2010-03-06	14:38	Denver	Health and Beauty	242.29	Discover
+2020-03-19	20:18	Colorado Springs	Health and Beauty	453.16	Discover
+2014-01-18	04:07	Seattle	Men's Clothing	442.41	Discover
+2007-07-01	16:49	Winston–Salem	Crafts	170.06	Visa
+2001-11-23	01:49	Phoenix	Cameras	129.06	Amex
+2019-12-02	05:17	St. Petersburg	Consumer Electronics	47.37	Cash
+2000-04-17	17:39	Baton Rouge	Garden	387.9	Cash
+2002-08-22	16:22	Irvine	Cameras	152.86	Amex
+2019-12-13	15:44	Oklahoma City	Computers	478.32	Discover
+2019-05-07	22:50	Chicago	Men's Clothing	95.59	Discover
+2015-12-12	07:27	Boston	Pet Supplies	321.06	Amex
+2017-01-03	14:07	Greensboro	Children's Clothing	279.54	Amex
+2005-02-02	06:48	Minneapolis	CDs	205.79	Cash
+2010-10-09	15:44	Corpus Christi	Crafts	254.39	Cash
+2003-08-15	05:06	Garland	CDs	206.06	Amex
+2010-03-10	00:17	San Jose	DVDs	204.88	Visa
+2007-02-15	23:52	St. Petersburg	Sporting Goods	359.82	Discover
+2004-04-11	04:29	Portland	Garden	262.5	Discover
+2017-11-15	04:26	Minneapolis	Baby	261.53	MasterCard
+2006-06-27	00:40	Washington	DVDs	213.39	MasterCard
+2020-08-20	22:23	Chicago	Women's Clothing	209.46	Discover
+2005-01-26	12:18	Omaha	Cameras	427.08	MasterCard
+2017-11-02	22:54	El Paso	Cameras	84.56	Amex
+2010-05-20	02:33	Reno	Music	74.11	Discover
+2013-05-01	02:29	Toledo	Sporting Goods	11.98	Cash
+2003-11-02	15:55	New York	Computers	233.51	Cash
+2008-02-16	20:53	Henderson	Computers	92.43	Visa
+2000-06-21	08:19	Irvine	Consumer Electronics	327.28	Cash
+2013-09-03	13:15	Mesa	Consumer Electronics	110.66	MasterCard
+2016-05-02	23:39	Madison	Women's Clothing	427.22	Visa
+2009-11-02	12:53	El Paso	DVDs	124.85	Cash
+2006-05-23	16:31	Tucson	Video Games	442.24	Visa
+2009-09-08	04:48	Minneapolis	Women's Clothing	216.99	Amex
+2006-05-19	18:33	Anchorage	Health and Beauty	144.33	Discover
+2002-07-13	08:09	Kansas City	DVDs	443.78	Discover
+2002-04-05	12:16	Baltimore	Consumer Electronics	28.37	Amex
+2017-08-04	03:41	Bakersfield	Pet Supplies	314.67	MasterCard
+2007-05-17	17:20	Saint Paul	DVDs	473.62	Cash
+2013-08-09	01:55	Newark	Children's Clothing	276.99	MasterCard
+2009-08-05	21:03	Wichita	Cameras	146.07	MasterCard
+2002-01-24	23:52	Memphis	CDs	267.76	MasterCard
+2005-11-24	12:41	Tucson	CDs	317.22	Amex
+2020-08-21	17:52	Norfolk	Garden	17.77	Amex
+2009-12-11	20:20	Milwaukee	Music	409.58	Amex
+2009-09-22	17:28	Newark	Video Games	280.5	Visa
+2001-06-20	21:36	Charlotte	Men's Clothing	436.25	Visa
+2014-11-03	10:18	Kansas City	Children's Clothing	206.27	MasterCard
+2007-07-04	12:20	Scottsdale	Books	113.85	Visa
+2003-01-10	01:55	Oakland	Books	434.96	Discover
+2019-06-19	00:45	Chesapeake	Consumer Electronics	392.13	Cash
+2003-04-01	08:37	Henderson	Garden	497.17	Visa
+2019-06-09	06:12	Cleveland	Men's Clothing	65.51	Visa
+2003-08-04	00:32	Pittsburgh	Crafts	407.37	MasterCard
+2019-09-19	01:17	Wichita	Computers	499.55	Cash
+2020-08-26	01:03	Sacramento	Baby	378.6	Cash
+2000-12-17	19:01	Memphis	Crafts	441.85	Visa
+2002-08-12	19:46	Fort Worth	Crafts	60.1	Visa
+2009-08-25	09:55	Chicago	Music	188.25	Cash
+2015-10-14	14:38	St. Petersburg	Men's Clothing	159.31	Cash
+2019-08-16	04:49	San Francisco	Video Games	211.66	Amex
+2012-03-24	02:03	Madison	Computers	188.79	MasterCard
+2020-06-22	13:37	Aurora	Men's Clothing	475.65	MasterCard
+2014-05-19	20:37	Birmingham	DVDs	411.8	Cash
+2018-09-04	19:45	Baltimore	Music	11.63	Discover
+2007-03-13	18:49	San Antonio	Toys	210.32	Amex
+2001-10-25	23:15	Laredo	CDs	387.05	MasterCard
+2006-04-19	15:59	Columbus	Garden	349.83	Visa
+2004-07-05	03:09	Chicago	Women's Clothing	406.11	Amex
+2000-06-21	23:11	Greensboro	Men's Clothing	100.2	Amex
+2017-01-10	11:29	Fremont	Books	39.72	Visa
+2003-08-22	10:22	Winston–Salem	Books	111.85	Discover
+2016-09-15	12:45	Milwaukee	Men's Clothing	209.18	MasterCard
+2014-02-19	12:51	Colorado Springs	Men's Clothing	12.62	Visa
+2011-08-02	13:19	Saint Paul	Cameras	350.91	Cash
+2019-09-07	12:16	Fort Worth	Toys	487.35	Discover
+2015-01-03	10:38	Omaha	Toys	160.88	Discover
+2007-11-23	14:08	Chandler	Music	291.45	Visa
+2020-07-14	18:31	Colorado Springs	Women's Clothing	354.67	Discover
+2010-10-15	09:20	Durham	Cameras	193.01	Discover
+2000-12-06	07:05	Oklahoma City	Women's Clothing	3.9	Amex
+2012-01-12	17:02	Detroit	DVDs	130.88	Cash
+2009-04-28	18:18	Reno	Books	461.62	Visa
+2001-03-18	02:05	Plano	Garden	332.72	Discover
+2017-04-28	07:40	Chicago	Men's Clothing	267.91	Visa
+2003-04-28	11:19	Columbus	Pet Supplies	133.61	Visa
+2018-09-26	04:09	San Bernardino	Pet Supplies	36.94	Amex
+2005-01-02	08:27	San Jose	Children's Clothing	136.12	MasterCard
+2000-08-04	18:57	Miami	Health and Beauty	166.14	MasterCard
+2006-11-18	20:22	Toledo	Toys	96.17	Visa
+2006-08-23	01:06	Seattle	Pet Supplies	59.53	Cash
+2017-02-01	23:48	Hialeah	Crafts	241.2	MasterCard
+2014-11-11	22:31	Toledo	Toys	70.36	Amex
+2006-06-03	10:32	Gilbert	DVDs	451.59	Discover
+2017-01-03	18:47	Hialeah	DVDs	461.34	Discover
+2020-02-03	16:51	Oakland	Baby	357.38	MasterCard
+2008-07-17	16:11	Rochester	Crafts	70.37	Cash
+2014-03-07	19:39	Lincoln	Pet Supplies	18.89	Discover
+2006-11-08	09:39	Anchorage	Men's Clothing	450.6	Cash
+2003-03-12	08:48	Fremont	Video Games	329.51	MasterCard
+2010-05-14	00:22	Las Vegas	Crafts	155.66	Visa
+2009-02-03	06:24	Anchorage	Books	59.31	Amex
+2004-12-06	08:37	Chandler	Baby	421.75	Amex
+2014-09-08	05:59	Detroit	Toys	327.04	MasterCard
+2007-08-05	10:45	Virginia Beach	Health and Beauty	91.6	Visa
+2003-09-09	19:00	Milwaukee	Children's Clothing	329.25	Cash
+2004-07-25	14:44	North Las Vegas	Crafts	271.43	Amex
+2004-01-14	17:49	Norfolk	Garden	176.29	Visa
+2020-07-10	08:33	Pittsburgh	Video Games	300.91	Cash
+2003-11-28	02:45	Winston–Salem	Pet Supplies	43.02	MasterCard
+2001-05-09	15:03	New Orleans	Crafts	187.54	MasterCard
+2019-05-21	14:37	Nashville	Baby	425.54	Discover
+2018-04-01	03:23	Detroit	Garden	7.2	Amex
+2006-12-23	00:39	San Francisco	Children's Clothing	370.81	MasterCard
+2003-04-16	22:32	Las Vegas	Children's Clothing	199.09	Discover
+2000-07-24	17:26	Garland	Women's Clothing	90.96	Discover
+2007-11-18	15:08	Fort Wayne	Video Games	374.14	MasterCard
+2009-03-03	02:09	Lexington	Children's Clothing	450.24	MasterCard
+2020-07-23	07:20	North Las Vegas	Men's Clothing	402.55	Cash
+2011-05-27	05:45	Milwaukee	DVDs	290.67	Visa
+2000-08-16	03:08	Richmond	CDs	289.02	Discover
+2007-11-10	17:30	Chandler	Books	295.39	Cash
+2008-09-01	00:00	Lexington	Video Games	306.41	Discover
+2003-10-08	19:43	Mesa	Pet Supplies	214.78	MasterCard
+2013-10-23	08:22	Buffalo	Men's Clothing	269.4	MasterCard
+2001-10-28	08:25	Corpus Christi	Children's Clothing	216.5	Amex
+2005-12-09	17:17	Indianapolis	Computers	149.05	Amex
+2000-12-18	17:43	Miami	Children's Clothing	418.27	Visa
+2013-11-06	02:41	Newark	Sporting Goods	469.78	Cash
+2007-10-16	14:33	Richmond	Cameras	86.8	Cash
+2002-07-27	20:57	Aurora	Crafts	495.97	Cash
+2016-04-08	18:51	Orlando	Women's Clothing	459.12	Amex
+2011-08-21	13:10	Chicago	CDs	93.5	Cash
+2019-05-18	12:47	Gilbert	Pet Supplies	151.46	Cash
+2019-10-03	14:01	Atlanta	Books	221.24	Visa
+2007-10-11	00:31	Fremont	Books	179.52	Discover
+2013-01-03	22:03	Albuquerque	Garden	91.31	Cash
+2001-11-26	01:44	Lexington	Garden	315.29	Cash
+2015-07-14	16:18	Columbus	DVDs	223.58	Visa
+2001-06-25	21:55	Bakersfield	Children's Clothing	149.04	MasterCard
+2004-07-19	03:57	Riverside	Video Games	414.33	Visa
+2011-06-22	03:23	Albuquerque	Health and Beauty	183.44	Cash
+2015-11-25	16:54	Richmond	Crafts	110.71	Discover
+2014-04-02	04:46	Fort Worth	Health and Beauty	133.16	Visa
+2007-01-02	15:52	Houston	Health and Beauty	135.7	Visa
+2016-06-22	22:36	Durham	Cameras	77.32	Discover
+2018-12-02	21:07	Austin	Women's Clothing	418.26	Visa
+2009-03-23	04:57	Las Vegas	Consumer Electronics	263.28	Discover
+2019-07-10	07:09	Raleigh	Baby	416.07	MasterCard
+2010-08-28	10:07	Boston	Health and Beauty	390.14	Cash
+2012-09-25	02:25	Long Beach	Pet Supplies	348.56	Visa
+2000-06-07	00:10	San Bernardino	Video Games	304.03	MasterCard
+2019-05-11	06:31	Long Beach	Consumer Electronics	32.86	Cash
+2009-05-08	02:14	Memphis	Toys	353.26	Visa
+2006-11-22	11:08	Dallas	Sporting Goods	473.69	MasterCard
+2001-10-23	19:41	Houston	Men's Clothing	197.32	Amex
+2007-11-05	00:48	Miami	Crafts	24.59	Amex
+2001-05-22	23:45	Louisville	Women's Clothing	307.95	Visa
+2005-01-02	13:24	Chesapeake	Baby	372.74	MasterCard
+2018-01-02	01:30	Scottsdale	Cameras	151.64	Cash
+2016-12-07	03:39	Chicago	Baby	405.12	MasterCard
+2016-07-13	07:44	Tulsa	Consumer Electronics	185.67	Amex
+2010-03-26	09:31	Houston	Music	464.15	Discover
+2020-06-09	03:39	Buffalo	Toys	439.22	Visa
+2009-02-09	02:07	Tucson	Music	366.74	Amex
+2016-08-14	19:38	Madison	Consumer Electronics	122.17	Visa
+2004-03-09	16:07	Winston–Salem	Men's Clothing	418.26	Discover
+2005-08-03	15:06	Colorado Springs	Garden	332.59	MasterCard
+2004-09-04	01:12	Chandler	Sporting Goods	24.31	Visa
+2009-07-11	01:21	Rochester	Video Games	156.21	MasterCard
+2019-08-08	16:02	San Diego	CDs	238.16	Amex
+2017-04-18	03:01	San Bernardino	Sporting Goods	454.17	Amex
+2018-04-12	22:18	Richmond	Children's Clothing	184.54	Visa
+2009-12-01	02:16	Tampa	Toys	307.82	Amex
+2005-04-14	05:55	Pittsburgh	Sporting Goods	422.54	Visa
+2000-04-26	11:20	Laredo	Consumer Electronics	48.11	Cash
+2002-11-05	08:24	Oklahoma City	Women's Clothing	14.62	Cash
+2004-05-27	15:12	Santa Ana	Health and Beauty	125.88	Visa
+2006-05-08	20:31	Miami	Pet Supplies	442.4	Cash
+2014-03-19	02:29	Colorado Springs	CDs	0.74	MasterCard
+2010-05-23	08:09	Pittsburgh	Women's Clothing	131.02	Discover
+2012-09-23	04:04	Omaha	DVDs	188.5	Discover
+2002-05-28	23:53	Jersey City	Garden	4.28	Amex
+2002-10-07	16:41	San Francisco	Garden	475.82	Discover
+2006-12-07	10:02	Louisville	Consumer Electronics	29.07	Cash
+2016-09-03	02:34	Madison	Computers	202.7	Cash
+2015-02-19	05:11	Rochester	Children's Clothing	431.34	Cash
+2001-03-11	16:13	Austin	Computers	166.57	MasterCard
+2003-09-18	23:39	Plano	Crafts	213.51	Visa
+2016-05-20	17:43	Honolulu	Pet Supplies	91.59	Discover
+2005-05-01	11:21	San Jose	Sporting Goods	422.91	MasterCard
+2019-01-15	19:50	Greensboro	Children's Clothing	142.41	Visa
+2015-02-20	02:55	Las Vegas	Sporting Goods	306.84	Amex
+2016-04-12	18:42	San Francisco	Children's Clothing	292.62	Cash
+2008-09-20	10:39	Austin	CDs	294.33	Discover
+2020-10-20	04:31	Reno	Video Games	294.46	Discover
+2020-03-22	12:54	Anchorage	Crafts	230.76	Discover
+2008-09-17	01:38	Norfolk	CDs	432.98	Visa
+2002-02-18	05:18	San Antonio	Crafts	38.67	Amex
+2004-10-28	11:33	Stockton	CDs	228.21	Visa
+2005-03-02	07:12	Tulsa	Garden	127.19	Amex
+2007-07-01	23:45	Chandler	Cameras	289.09	Amex
+2008-01-09	20:49	Houston	CDs	121.24	Amex
+2015-08-20	09:50	Greensboro	DVDs	371.98	Discover
+2014-05-24	23:41	Raleigh	Books	274.2	Discover
+2018-06-13	23:43	Oakland	Toys	103.97	Amex
+2009-03-28	20:26	Cincinnati	Cameras	236.57	Visa
+2010-04-10	10:38	Lubbock	CDs	304.11	MasterCard
+2009-11-10	23:47	Baltimore	DVDs	110.52	Amex
+2004-08-13	01:05	San Francisco	Children's Clothing	203.82	MasterCard
+2012-09-05	07:47	Columbus	Video Games	393.02	MasterCard
+2015-07-22	00:24	Greensboro	Toys	207.88	Cash
+2016-10-24	15:42	Spokane	Baby	245.63	MasterCard
+2005-11-04	17:27	Plano	Consumer Electronics	308.08	Cash
+2017-03-28	01:07	Seattle	Children's Clothing	101.49	Amex
+2012-02-22	06:27	Houston	Cameras	125.14	Cash
+2017-03-09	13:49	Long Beach	Children's Clothing	169.09	Discover
+2009-08-22	09:39	Boston	Cameras	346.35	Discover
+2005-06-12	23:25	Fort Worth	Health and Beauty	379.66	MasterCard
+2017-04-06	21:55	Chesapeake	Music	29.41	Discover
+2018-08-02	06:15	Scottsdale	DVDs	142.77	Amex
+2000-04-01	19:02	San Bernardino	Sporting Goods	9.89	Amex
+2001-09-20	13:39	Las Vegas	Video Games	87.49	Amex
+2003-10-20	23:08	Portland	Books	75.58	Discover
+2017-12-06	04:32	Boise	Sporting Goods	288.66	MasterCard
+2016-08-22	14:30	Los Angeles	DVDs	430.34	Discover
+2004-07-20	07:39	New Orleans	Garden	37.42	Cash
+2001-06-17	04:39	Laredo	Garden	348.21	Cash
+2017-12-25	08:33	Norfolk	Sporting Goods	224.09	Amex
+2014-07-05	15:43	Milwaukee	CDs	418.29	MasterCard
+2012-10-18	16:24	Tucson	Health and Beauty	268.79	MasterCard
+2002-02-18	01:43	Chandler	CDs	419.92	Visa
+2003-08-27	15:22	Durham	Music	336.48	Cash
+2009-09-11	16:40	Jersey City	Pet Supplies	264.72	Cash
+2012-12-02	06:04	Baltimore	Music	245.79	MasterCard
+2012-06-14	17:56	Baton Rouge	Toys	199.85	MasterCard
+2004-07-26	19:11	Phoenix	Books	2.55	Amex
+2008-04-22	18:32	Long Beach	Crafts	453.08	Amex
+2017-07-10	18:54	Chula Vista	Computers	355.7	MasterCard
+2013-11-21	10:45	Memphis	Sporting Goods	488.5	Cash
+2019-02-06	17:55	Washington	Baby	144.14	Amex
+2001-05-18	17:23	Wichita	Children's Clothing	80.44	MasterCard
+2012-01-21	11:48	Honolulu	Toys	417.42	Cash
+2007-12-22	21:12	Seattle	Baby	411.15	Visa
+2008-02-03	12:24	Austin	Consumer Electronics	186.6	Amex
+2002-04-05	21:15	Fort Wayne	Crafts	37.11	Amex
+2011-01-05	19:34	Sacramento	Pet Supplies	50.27	MasterCard
+2004-02-22	08:18	Birmingham	Health and Beauty	485.49	Cash
+2018-07-26	03:16	El Paso	Women's Clothing	126.12	Visa
+2002-06-07	15:55	Baton Rouge	Toys	411.54	Visa
+2000-11-23	08:59	San Francisco	Children's Clothing	4.94	Discover
+2002-12-13	14:18	Chula Vista	Books	185.9	Discover
+2010-10-13	03:55	Lubbock	Children's Clothing	78.78	Visa
+2007-03-16	11:42	Nashville	Health and Beauty	51.21	Cash
+2015-12-04	08:45	Jersey City	Children's Clothing	58.09	Visa
+2004-02-14	20:26	Baltimore	Baby	456.62	Cash
+2011-11-06	22:01	Irvine	CDs	335.86	Cash
+2007-07-03	10:35	Phoenix	Garden	259.52	Visa
+2017-04-23	05:42	Albuquerque	Crafts	218.31	Amex
+2011-07-01	09:47	Tucson	Baby	379.08	Discover
+2002-12-13	00:07	New York	Baby	32.81	Visa
+2004-09-22	09:01	St. Louis	Women's Clothing	0.87	Visa
+2002-12-08	03:39	Tampa	Women's Clothing	153.44	Discover
+2009-06-23	04:59	Denver	Books	468.08	Visa
+2014-02-10	15:34	Reno	Pet Supplies	58.23	Discover
+2007-11-23	22:21	Chicago	Cameras	46.65	Discover
+2009-07-28	22:23	Santa Ana	Consumer Electronics	432.45	Cash
+2007-11-25	06:39	Scottsdale	Music	277.66	Amex
+2019-10-15	10:16	Tampa	Crafts	16.09	Visa
+2012-04-24	21:09	Atlanta	Health and Beauty	484.31	MasterCard
+2016-02-15	09:29	Boise	Pet Supplies	143.57	Cash
+2006-05-12	14:59	Baton Rouge	Sporting Goods	210.55	Amex
+2011-04-03	01:52	Virginia Beach	Toys	145.38	MasterCard
+2000-09-08	15:02	Honolulu	DVDs	40.78	Amex
+2010-11-07	14:48	Detroit	Pet Supplies	77.06	Amex
+2010-08-09	02:01	Tampa	Crafts	72.7	Cash
+2001-09-13	22:41	Houston	Health and Beauty	215.04	Amex
+2017-05-12	07:14	Detroit	Sporting Goods	181.94	Cash
+2006-05-22	17:39	Henderson	Music	358.35	Amex
+2015-05-14	04:56	Fort Wayne	Children's Clothing	151.91	MasterCard
+2014-09-22	22:32	Milwaukee	Garden	423.32	Amex
+2012-07-05	06:12	Reno	Computers	76.12	Visa
+2020-06-27	13:32	Memphis	Sporting Goods	50.9	Amex
+2020-03-19	20:47	Gilbert	Toys	77.33	Cash
+2014-08-11	11:54	Spokane	Video Games	15.49	Discover
+2016-01-21	22:58	Oklahoma City	Consumer Electronics	150.99	Discover
+2008-07-16	08:37	Jersey City	Sporting Goods	45.75	MasterCard
+2016-01-16	18:46	San Diego	Books	147.41	Discover
+2004-02-12	09:56	Jersey City	Baby	155.28	Visa
+2010-07-21	00:09	Winston–Salem	Women's Clothing	293.71	Amex
+2000-01-23	01:12	Charlotte	Consumer Electronics	265.2	Discover
+2003-04-04	02:19	Cleveland	Sporting Goods	393.68	Discover
+2020-12-27	12:32	Lincoln	Consumer Electronics	393.55	Cash
+2003-05-25	06:30	Denver	Sporting Goods	207.76	MasterCard
+2010-08-03	05:28	New York	Sporting Goods	383.34	Cash
+2013-03-04	10:27	Kansas City	Garden	62.12	Visa
+2013-10-18	00:18	Milwaukee	Toys	267.36	Visa
+2015-05-18	19:14	Santa Ana	Pet Supplies	403.42	Discover
+2010-05-22	11:15	Tampa	Computers	211.28	Amex
+2004-01-23	19:11	Tulsa	Consumer Electronics	232.11	Cash
+2016-05-11	14:15	Colorado Springs	Sporting Goods	71.58	Amex
+2003-07-15	19:20	Phoenix	Baby	197.64	Discover
+2016-01-23	20:35	Miami	CDs	102.53	Discover
+2015-04-06	11:52	Los Angeles	Children's Clothing	61.22	Visa
+2009-02-24	18:51	Lincoln	Toys	84.18	Discover
+2004-10-10	09:06	Fort Wayne	Pet Supplies	226.14	Visa
+2008-11-08	18:44	Honolulu	Books	19.85	Cash
+2004-12-03	00:15	Philadelphia	Sporting Goods	458.27	Amex
+2018-04-19	20:29	Minneapolis	CDs	206.97	Cash
+2008-07-15	20:38	Plano	Baby	285.46	Visa
+2009-11-10	07:27	Tucson	Health and Beauty	216.9	MasterCard
+2013-07-08	22:54	Colorado Springs	Health and Beauty	451.91	MasterCard
+2011-05-08	07:44	Kansas City	Computers	134.61	Visa
+2015-12-05	19:14	Garland	Video Games	266.71	Cash
+2014-06-09	02:23	Boise	Books	470.48	Discover
+2007-11-16	08:36	Cincinnati	Men's Clothing	460.26	Visa
+2004-05-28	23:21	Norfolk	Music	16.33	Visa
+2017-07-25	04:10	Raleigh	Video Games	211.08	Visa
+2002-04-13	18:10	Richmond	Books	251.11	Discover
+2014-01-08	19:36	St. Louis	DVDs	159.51	Visa
+2012-01-11	14:38	Milwaukee	Sporting Goods	74.16	Visa
+2020-06-28	20:11	San Bernardino	Toys	394.52	Cash
+2018-06-25	07:39	Sacramento	Video Games	97.16	Visa
+2014-10-06	09:39	Milwaukee	CDs	74.07	MasterCard
+2016-06-27	09:28	Bakersfield	Music	36.89	Cash
+2002-01-08	05:45	Durham	Video Games	477.38	Amex
+2017-07-03	16:48	Minneapolis	Women's Clothing	446.55	Visa
+2006-02-23	02:30	Louisville	Books	369.98	Amex
+2013-06-22	10:53	Boston	Cameras	188.8	Visa
+2001-10-17	06:01	St. Petersburg	Baby	287.47	Visa
+2001-01-09	01:23	Scottsdale	Cameras	344.22	MasterCard
+2017-09-14	00:29	Santa Ana	Women's Clothing	352.47	Visa
+2018-06-09	10:09	Scottsdale	Health and Beauty	400.61	Visa
+2019-09-24	08:06	New York	Computers	338.95	Cash
+2012-04-17	14:52	Fresno	Men's Clothing	186.56	Amex
+2002-02-06	19:40	Atlanta	DVDs	48.79	MasterCard
+2015-12-22	20:12	Stockton	Computers	260.28	Amex
+2009-08-17	13:04	Rochester	Music	12.36	Amex
+2013-08-11	21:44	Anchorage	Consumer Electronics	334.73	Visa
+2002-02-08	01:42	Chandler	Garden	371.26	Cash
+2018-01-02	10:56	New York	Computers	269.91	MasterCard
+2004-01-02	02:43	Kansas City	Garden	97.02	Discover
+2000-01-18	18:09	Lexington	Video Games	369.87	Discover
+2006-04-27	19:20	New Orleans	Computers	182.68	Visa
+2013-05-27	03:47	Jacksonville	CDs	444.15	MasterCard
+2014-02-26	19:16	Boise	Pet Supplies	430.02	Discover
+2016-05-11	15:00	San Diego	Women's Clothing	296.6	Visa
+2006-06-05	06:10	Lincoln	Pet Supplies	248.26	Visa
+2016-06-13	17:38	Irving	Pet Supplies	422.78	Visa
+2004-03-02	08:27	Jacksonville	Consumer Electronics	187.85	Amex
+2000-06-01	10:40	Lubbock	Music	229.74	MasterCard
+2002-07-20	17:05	Saint Paul	Music	135.06	Amex
+2020-02-20	12:39	Norfolk	Computers	395.63	Cash
+2014-04-07	06:26	Stockton	DVDs	48.34	MasterCard
+2005-10-12	10:12	Stockton	DVDs	282.1	Cash
+2013-12-23	22:34	Scottsdale	Crafts	480.9	Amex
+2005-11-02	23:35	Chandler	Cameras	363.52	Visa
+2000-04-03	03:21	Glendale	Cameras	435.4	MasterCard
+2000-02-03	21:37	Santa Ana	Consumer Electronics	481.44	Amex
+2008-02-28	10:27	Laredo	Health and Beauty	252.63	Amex
+2004-04-19	14:47	Santa Ana	Cameras	476.33	Discover
+2016-04-18	19:54	Philadelphia	Music	223.4	MasterCard
+2011-11-17	08:22	Philadelphia	Children's Clothing	134.46	Cash
+2000-10-24	04:32	Arlington	Video Games	169.33	Visa
+2002-01-05	04:46	Anaheim	Music	204.75	Cash
+2019-02-02	05:22	Plano	Children's Clothing	308.47	Visa
+2017-08-13	15:29	Phoenix	Garden	426.43	Discover
+2004-02-18	07:32	Garland	Men's Clothing	427.97	Cash
+2005-09-21	15:05	Las Vegas	CDs	37.83	Amex
+2006-04-28	02:13	Boise	Video Games	23.21	Amex
+2002-04-01	08:55	Atlanta	Crafts	267.03	MasterCard
+2008-03-04	06:11	Aurora	Computers	481.68	MasterCard
+2003-01-02	16:44	Fresno	Books	418.37	Amex
+2011-11-23	20:14	Oakland	Crafts	443.37	Amex
+2020-09-24	14:57	Jersey City	DVDs	108.25	Amex
+2009-06-02	10:10	Baltimore	DVDs	0.18	Visa
+2019-08-13	20:06	Miami	CDs	146.44	Visa
+2018-09-17	15:48	Nashville	Sporting Goods	104.75	Visa
+2014-01-18	20:04	New York	Health and Beauty	371.21	Amex
+2000-09-09	09:05	Lexington	Health and Beauty	216.08	MasterCard
+2013-05-06	21:55	Wichita	Baby	148.43	MasterCard
+2000-03-08	11:33	San Diego	Garden	86.31	Amex
+2003-09-13	08:27	Baton Rouge	Computers	67.94	Amex
+2010-08-12	19:44	Charlotte	Baby	451.96	Amex
+2014-09-18	01:11	Madison	Books	397.18	Cash
+2002-11-11	17:53	Philadelphia	Books	357.31	MasterCard
+2014-03-14	22:38	Saint Paul	Garden	232.8	Discover
+2018-02-16	20:50	New York	Men's Clothing	122.49	Cash
+2002-05-16	17:01	Santa Ana	Sporting Goods	368.29	Cash
+2016-06-07	14:54	Anchorage	Men's Clothing	398.32	Cash
+2016-11-09	00:07	Madison	Consumer Electronics	388.66	Discover
+2003-07-06	18:27	Newark	Men's Clothing	337.12	Cash
+2012-01-21	04:21	Irvine	Sporting Goods	141.78	MasterCard
+2004-06-01	07:12	Las Vegas	Toys	22.82	Visa
+2015-03-08	00:04	Arlington	Cameras	215.06	Amex
+2005-01-01	20:51	Arlington	DVDs	339.64	Visa
+2005-04-28	14:56	Honolulu	Computers	235.57	Amex
+2019-11-26	05:03	New York	Health and Beauty	170.43	Discover
+2006-06-24	07:43	Dallas	Sporting Goods	88.84	Visa
+2011-11-18	01:18	Gilbert	Sporting Goods	198.59	Visa
+2016-02-03	12:48	Chandler	Pet Supplies	216.86	Cash
+2004-10-05	10:41	Kansas City	Children's Clothing	171.39	Cash
+2010-02-18	06:30	Hialeah	Video Games	93.91	Discover
+2015-07-24	01:25	Mesa	Books	363.34	Amex
+2013-11-26	16:00	Los Angeles	Crafts	17.65	Cash
+2000-11-09	10:29	Lincoln	CDs	380.7	Amex
+2019-12-25	17:16	Atlanta	Men's Clothing	72.45	Visa
+2014-02-10	11:36	Saint Paul	Sporting Goods	192.69	Cash
+2000-03-26	21:06	St. Louis	Consumer Electronics	432.15	Cash
+2003-10-07	22:17	Irving	Health and Beauty	489.54	MasterCard
+2019-01-05	16:03	Chula Vista	Baby	287.12	MasterCard
+2011-05-17	16:07	Los Angeles	Music	271.67	MasterCard
+2004-08-17	23:05	Charlotte	Children's Clothing	315.86	Cash
+2000-08-15	16:53	Stockton	Pet Supplies	459.44	Amex
+2007-12-24	19:49	San Bernardino	Books	472.56	Cash
+2017-07-13	12:53	Scottsdale	Health and Beauty	155.41	Visa
+2000-04-15	13:35	Fort Wayne	Children's Clothing	8.59	Amex
+2016-09-17	08:21	Seattle	Books	133.33	MasterCard
+2003-10-11	17:50	Las Vegas	Baby	479.8	Cash
+2006-07-11	07:16	Fort Wayne	Children's Clothing	310.54	Discover
+2009-09-25	21:37	Jersey City	Garden	29.15	Visa
+2017-08-18	20:57	Garland	Men's Clothing	440.77	Cash
+2019-03-03	21:43	Richmond	Pet Supplies	80.5	Amex
+2020-09-23	11:44	Spokane	Crafts	118.27	Discover
+2003-06-22	22:37	Sacramento	Pet Supplies	408.1	Visa
+2003-06-17	03:14	El Paso	Computers	421.82	Amex
+2016-01-26	09:45	Oakland	Garden	190.93	Visa
+2007-04-08	16:56	Atlanta	CDs	185.23	MasterCard
+2011-04-12	00:06	Cincinnati	Books	253.06	Discover
+2011-08-08	12:02	Dallas	CDs	227.38	Visa
+2006-04-09	00:18	Colorado Springs	Sporting Goods	381.98	Visa
+2015-08-01	04:23	Nashville	Garden	406.27	Cash
+2016-02-23	12:14	Fort Wayne	Children's Clothing	382.83	Visa
+2006-02-07	13:33	New York	DVDs	8.84	Amex
+2013-12-24	18:23	Riverside	Women's Clothing	222.1	Amex
+2018-09-12	07:49	Philadelphia	Children's Clothing	358.94	Visa
+2019-10-23	08:40	Indianapolis	Children's Clothing	61.54	Visa
+2014-01-01	01:39	Richmond	Consumer Electronics	376.82	Cash
+2003-04-19	21:57	Oakland	Health and Beauty	31.8	Visa
+2019-12-05	19:59	Phoenix	Crafts	134.94	Amex
+2010-02-20	20:18	Toledo	Crafts	164.53	Amex
+2008-02-03	03:08	Scottsdale	Children's Clothing	454.79	Discover
+2005-03-19	05:38	Irvine	Health and Beauty	67.38	MasterCard
+2015-09-25	21:13	Columbus	CDs	147.05	Amex
+2020-10-07	15:53	Milwaukee	Computers	188.83	Amex
+2020-10-26	04:30	Lincoln	Pet Supplies	433.79	Visa
+2001-01-11	03:43	Philadelphia	Men's Clothing	424.61	Cash
+2019-08-04	22:58	Louisville	CDs	93.22	Visa
+2015-06-04	01:01	Orlando	Consumer Electronics	373.77	Cash
+2006-08-07	04:28	Oklahoma City	Women's Clothing	474.29	MasterCard
+2011-07-09	23:51	Sacramento	Sporting Goods	58.36	Amex
+2009-05-17	17:05	Anaheim	Books	347.6	MasterCard
+2002-01-09	12:48	St. Louis	Computers	339.37	Visa
+2011-10-26	23:06	Virginia Beach	Consumer Electronics	98.55	Amex
+2011-09-12	15:38	Nashville	CDs	21.97	Amex
+2018-02-02	09:01	St. Petersburg	Health and Beauty	454.77	Discover
+2019-12-01	20:45	Chula Vista	Children's Clothing	439.14	Discover
+2018-02-05	07:10	Birmingham	Health and Beauty	32.15	Cash
+2007-01-17	01:08	Buffalo	Consumer Electronics	263.18	Visa
+2017-05-12	03:53	Portland	Pet Supplies	304.6	Discover
+2011-06-06	07:21	Bakersfield	DVDs	273.03	Visa
+2008-08-25	22:38	Plano	Video Games	478.98	Cash
+2010-11-11	20:56	Aurora	Consumer Electronics	96.69	Discover
+2011-03-01	13:53	Honolulu	Computers	407.51	MasterCard
+2013-08-20	06:33	Reno	Crafts	278.26	Cash
+2005-07-10	08:04	Madison	CDs	302.82	MasterCard
+2008-03-14	19:25	Wichita	Garden	263.77	Discover
+2005-07-28	08:10	Scottsdale	Video Games	272.8	Amex
+2010-05-19	04:28	Sacramento	Music	192.9	Discover
+2011-02-13	04:04	Irvine	Crafts	255.94	Visa
+2008-02-18	09:33	Kansas City	Cameras	463.71	Amex
+2003-12-27	20:43	San Antonio	Children's Clothing	207.31	Discover
+2003-05-23	07:29	Atlanta	Crafts	464.47	Discover
+2008-09-19	08:14	Cleveland	Baby	438.33	Visa
+2001-03-16	03:21	Scottsdale	Baby	218.54	Discover
+2005-05-27	03:40	Lexington	Consumer Electronics	383.87	Amex
+2018-05-23	09:58	Fort Worth	Books	444.33	Discover
+2003-07-23	17:09	Honolulu	DVDs	255.11	Discover
+2013-06-27	23:49	Houston	Toys	291.42	MasterCard
+2008-12-02	15:13	Denver	DVDs	252.52	Visa
+2016-11-26	17:00	Tucson	Garden	373.31	Amex
+2009-07-23	05:42	New York	Sporting Goods	81.4	MasterCard
+2019-09-10	12:35	Arlington	Men's Clothing	44.39	MasterCard
+2003-09-08	00:51	Virginia Beach	Garden	313.14	Cash
+2007-08-08	09:30	Madison	CDs	459.03	Visa
+2007-12-21	22:13	Denver	Toys	263.96	Visa
+2020-11-03	06:40	Boise	CDs	147.33	Discover
+2018-10-01	02:01	New York	Crafts	338.06	Cash
+2004-06-16	01:30	Dallas	Video Games	185.68	Discover
+2016-06-24	22:24	Oakland	Video Games	286.45	MasterCard
+2006-08-02	21:05	Oakland	Pet Supplies	148.57	Cash
+2001-12-13	21:26	Cleveland	DVDs	15.67	Visa
+2007-11-04	12:21	Tampa	Pet Supplies	60.5	Visa
+2018-02-04	06:27	Richmond	Health and Beauty	76.86	Discover
+2016-06-08	04:16	North Las Vegas	Sporting Goods	85.11	Cash
+2018-04-26	20:12	Chandler	Children's Clothing	205.56	Visa
+2008-08-20	17:24	Miami	Cameras	459.35	Discover
+2012-07-27	11:38	Mesa	CDs	285.57	MasterCard
+2016-12-09	17:45	Scottsdale	Crafts	26.53	Visa
+2005-08-27	18:07	Atlanta	Music	51.54	MasterCard
+2016-06-11	19:45	Reno	Men's Clothing	20.92	Amex
+2002-10-16	02:29	Fort Wayne	CDs	181.23	Amex
+2014-01-27	12:55	Aurora	Children's Clothing	108.17	Visa
+2004-01-23	20:15	Memphis	Toys	103.85	Cash
+2015-09-28	02:41	Omaha	Pet Supplies	46.82	Discover
+2011-10-03	15:40	Detroit	Men's Clothing	230.09	Discover
+2017-08-01	22:50	Fremont	CDs	100.51	Cash
+2017-12-22	17:59	Austin	Consumer Electronics	120.23	MasterCard
+2010-09-06	12:00	Tucson	Toys	372.36	Discover
+2017-02-10	09:37	Tampa	Garden	34.58	Visa
+2004-05-06	09:02	Fresno	Cameras	13.59	Amex
+2017-08-18	14:48	Anchorage	Health and Beauty	104.4	Cash
+2017-09-12	21:55	Bakersfield	CDs	50.61	MasterCard
+2016-05-18	19:43	El Paso	Women's Clothing	216.3	Visa
+2015-12-14	13:43	Irvine	Music	162.77	MasterCard
+2019-03-01	01:02	New York	Books	210.42	Discover
+2003-01-27	10:04	Washington	Garden	113.96	Amex
