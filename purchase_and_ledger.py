@@ -1,5 +1,5 @@
 #########################################
-# Filename: purchase_and_ledger_not_working.py
+# Filename: purchase_and_ledger.py
 # Author: Roni Shternberg
 # Purchase and Ledger Class definitions
 #########################################
