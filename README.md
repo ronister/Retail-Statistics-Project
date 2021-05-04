@@ -1,5 +1,5 @@
 # purchases
-This project takes purchases data file (ledger of sales) and runs some statistics on it using:
+This project takes purchases data csv file (ledger of sales) and runs some statistics on it using:
 (a) textual interface (run.py), or:
 (b) Tkinter standard python GUI library (runGui.py).
 Each Purchase has 6 fields: date, time, store, category, price, and payment method (Visa, Cash, etc.)
@@ -17,3 +17,11 @@ This script prepares the "purchases1000_new.txt" data file based on "purchases10
 1. All the dates in "purchases1000.txt" file are from the same day - 2012-01-01.
 2. In order to have different dates, we create lists of RANDOM dates and times.
 3. We set dates and times into the purchase objects using the Purchase method set_date_and_time().
+
+In this project we use the following modules/components:
+- OOP Classes
+- textual interface - input() function and exception handling
+- tkinter GUI module.
+- csv, datetime, random and re modules.
+- List comprehensions, dictionaries, sorting with lambda etc.
+- a bit of pandas and matplotlib - just to generate 2 pie charts
