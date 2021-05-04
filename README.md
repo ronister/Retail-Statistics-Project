@@ -21,5 +21,6 @@ This project includes:
 - textual interface using input() function and exception handling 
 - tkinter GUI module
 - csv, datetime, random and re modules
+- statistics module
 - List Comprehensions, dictionaries, sorting with lambdas, etc
 - a bit of pandas and matplotlib to generate 2 pie plots
