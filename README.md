@@ -4,7 +4,7 @@ This project takes purchases data csv file (ledger of sales) and runs some stati
 (b) Tkinter standard python GUI library (runGui.py).
 Each Purchase has 6 fields: date, time, store, category, price, and payment method (Visa, Cash, etc.)
 Notes:
-1. The Original "purchases.txt" data file was about 200 MB, and the dates are from the year 2012. (1/1/2012 to 31/12/2012)
+1. The Original "purchases.txt" data file was huge (about 200 MB), and the dates are from the year 2012. (1/1/2012 to 31/12/2012)
 2. 200MB is too big, so we took the first 1000 purchases (UNIX shell command "head") --- the result was about 50 KB.
 3. We prepare the "purchases1000_new.txt" file in a script called "prepare.py" (see below)
 
