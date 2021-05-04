@@ -15,3 +15,11 @@ Other files:
 purchase_and_ledger.py - Purchase and Ledger Class definitions
 
 graphs.py - Used to Generate graphs using pandas and matplotlib
+
+This project includes:
+- OOP Classes
+- textual interface using input() function and exception handling 
+- tkinter GUI module
+- csv, datetime, random and re modules
+- List Comprehensions, dictionaries, sorting with lambdas, etc
+- a bit of pandas and matplotlib to generate 2 pie plots
