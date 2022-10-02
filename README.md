@@ -1,4 +1,4 @@
-# purchases
+# Retail Statistics Project
 This project takes purchases data csv file (ledger of sales) and runs various statistics on it using:
 (a) textual interface (run.py), or:
 (b) Tkinter standard python GUI library (runGui.py).
